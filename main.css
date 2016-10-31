@@ -17,14 +17,14 @@ header {
 }
 
 /*div aliniacion derecha*/
-#derecha {
+.derecha {
   display: block;
   width: 50%;
   float: right;
   padding-top: 75px;
 }
 /*div aliniacion izquierda*/
-#izquierda {
+.izquierda {
   display: block;
   width: 50%;
   float: left;
