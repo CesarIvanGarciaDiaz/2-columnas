@@ -1,0 +1,32 @@
+.container {
+  margin: 0 auto;
+  width: 750px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.main-title {
+  text-align: center;
+}
+
+/*div aliniacion derecha*/
+#derecha {
+  display: block;
+  width: 50%;
+  float: right;
+  padding-top: 75px;
+}
+/*div aliniacion izquierda*/
+#izquierda {
+  display: block;
+  width: 50%;
+  float: left;
+  padding-top: 50px;
+}
